@@ -1,0 +1,25 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "aws node server test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezetojo/server_test.git"
+  },
+  "keywords": [
+    "node",
+    "aws",
+    "server",
+    "test"
+  ],
+  "author": "Eze Tojo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezetojo/server_test/issues"
+  },
+  "homepage": "https://github.com/ezetojo/server_test#readme"
+}
