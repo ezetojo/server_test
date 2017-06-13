@@ -1,6 +1,6 @@
 const http = require('http');
 
-const hostname = '127.0.0.1';
+const hostname = 'ec2-52-14-220-106.us-east-2.compute.amazonaws.com';
 const port = 8080;
 
 const server = http.createServer((req, res) => {
